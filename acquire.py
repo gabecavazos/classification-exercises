@@ -118,4 +118,3 @@ def get_telco_data():
         df.to_csv('telco.csv')
         
     return df
-
