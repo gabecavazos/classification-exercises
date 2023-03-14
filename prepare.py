@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 def prep_titanic(df):
     '''
     clean titanic will take in a single pandas dataframe
